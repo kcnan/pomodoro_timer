@@ -1,0 +1,4 @@
+A really simple pomodoro timer written in C.
+
+All the configuration is located in the config.h file, so modify the values as
+you see fit.
